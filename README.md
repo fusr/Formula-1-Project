@@ -4,6 +4,14 @@
 
 This repository contains the code and data for Formula Data Dynamics Capstone Project, which was completed as part of a data analytics bootcamp. The project focuses on analyzing Formula 1 (F1) racing data to explore various hypotheses related to tyre usage, grid positions, and the relationship between constructors' and drivers' championships.
 
+### Our Team:
+
+Ana
+Florian
+Jaad
+
+And we are Data Practinioner Trainees at Neuefische Hamburg.
+
 ## Data Sources
 
 ### CSV Files
